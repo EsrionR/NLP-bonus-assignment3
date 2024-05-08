@@ -1,0 +1,50 @@
+{
+    "0": {
+        "prompt": "hi",
+        "answer": "Hi there! \ud83d\udc4b I'm Gemini, your friendly Dutch language coach. I'm excited to help you on your journey to learn Dutch! To begin, could you tell me which level you'd like to start with: Beginner, Intermediate, or Advanced? \ud83d\ude04 \n"
+    },
+    "1": {
+        "prompt": "hello",
+        "answer": "Hello! \ud83d\udc4b  So great to have you here. \ud83d\ude0a To get started, could you tell me which level you'd like to begin with: Beginner, Intermediate, or Advanced? This will help me tailor our conversation to your current Dutch skills. \n"
+    },
+    "2": {
+        "prompt": "hi",
+        "answer": "Hi again!  \ud83d\ude04 I'm happy to help you learn Dutch. To start, could you please tell me which level you'd like to begin with: Beginner, Intermediate, or Advanced? This way, I can adjust the difficulty of our conversation to match your current Dutch skills. \n"
+    },
+    "3": {
+        "prompt": "Beginner",
+        "answer": "Fantastic! Welcome to the world of Dutch! \ud83d\ude04  We'll take things step-by-step.  \n\nTo begin, which scenario would you like to roleplay today? Here are a few options:\n\n1. **Supermarkt**: Doing groceries \ud83d\uded2\n2. **Bakkerij**: Visiting a bakery \ud83c\udf5e\n3. **Restaurant**: Enjoying a meal \ud83c\udf7d\ufe0f\n4. **Bar**: Having a drink \ud83c\udf7b \n5. **Caf\u00e9**: Relaxing with coffee \u2615\n6. **Hotel**: Booking a weekend trip \ud83c\udfe8\n7. **Dokter**: Visiting the doctor \ud83e\ude7a \n\nJust let me know your choice, and we'll start our Dutch practice! \n"
+    },
+    "4": {
+        "prompt": "Hi",
+        "answer": "Hi! \ud83d\udc4b  I'm glad you're enthusiastic about learning Dutch! To get started, could you please choose one of the roleplaying scenarios I mentioned earlier? This will help us practice Dutch in a fun and engaging way.  \ud83d\ude0a\n\n\n\n"
+    },
+    "5": {
+        "prompt": "What are the role playing scenarios again",
+        "answer": "Absolutely, here they are again:\n\n1. **Supermarkt**: Doing groceries \ud83d\uded2\n2. **Bakkerij**: Visiting a bakery \ud83c\udf5e\n3. **Restaurant**: Enjoying a meal \ud83c\udf7d\ufe0f\n4. **Bar**: Having a drink \ud83c\udf7b \n5. **Caf\u00e9**: Relaxing with coffee \u2615\n6. **Hotel**: Booking a weekend trip \ud83c\udfe8\n7. **Dokter**: Visiting the doctor \ud83e\ude7a \n\nWhich one would you like to try first? \ud83d\ude0a \n"
+    },
+    "6": {
+        "prompt": "Bar",
+        "answer": "Great choice! \ud83c\udf7b Let's head to a Dutch bar!  \n\n**Scenario:  You've just arrived at a bar in Amsterdam. You'd like to order a drink.  A friendly bartender approaches you. ** \n\nBartender: \"Goedenavond! Wat mag het zijn?\" (Good evening! What can I get you?) \n\n**How would you like to respond? What would you like to order?**  \ud83e\udd14 \n"
+    },
+    "7": {
+        "prompt": "I would like to order a bitter lemon",
+        "answer": "Excellent!  In Dutch, you could say: \"Ik wil graag een bitter lemon, alstublieft.\" (\"I would like a bitter lemon, please.\") \n\n**Bartender**: \"Heel graag. Wilt u nog iets?\" (Certainly. Would you like anything else?)\n\n**Would you like anything else?** \n\n"
+    },
+    "8": {
+        "prompt": "Ik wil graag een bitter lemon, alsublieft",
+        "answer": "Perfect! \ud83d\udc4f  That's exactly how you say it! \"Ik wil graag een bitter lemon, alstublieft.\" \n\n**Bartender**: \"Heel graag. Wilt u nog iets?\" (Certainly. Would you like anything else?) \n\n**Do you want anything else, or are you good with just the bitter lemon?** \ud83d\ude09 \n"
+    },
+    "9": {
+        "prompt": "Ik wil now a drink",
+        "answer": "Great effort!  \ud83d\udc4f To say \"I don't want a drink now,\" you can say: \"Ik wil nu geen drankje.\" \n\n**Bartender**: \"Geen probleem. Ik breng uw bitter lemon zo.\" (No problem. I'll bring your bitter lemon shortly.) \n\n**You've successfully ordered your drink! How do you feel about the interaction so far?** \ud83d\ude0a \n"
+    },
+    "10": {
+        "prompt": "Ik heb heel veel hoofdpijn, kunt u mij verder helpen",
+        "answer": "Wow!  \ud83d\udc4f You're doing incredibly well! \"Ik heb heel veel hoofdpijn, kunt u mij verder helpen\" is perfect!  \n\n**Doctor**: \"Natuurlijk.  Waar zit de pijn precies? En sinds wanneer heeft u last van hoofdpijn?\"  (Of course. Where exactly is the pain? And since when have you been experiencing headaches?) \n\n**Can you describe the location of the pain and when it started?** \n\n\n"
+    },
+    "10": {
+        "prompt": "Ik heb pijn aan mijn hoofd en het begon gister",
+        "answer": "Fantastic! \ud83d\udc4f Your Dutch is improving quickly! \"Ik heb pijn aan mijn hoofd en het begon gister\" is a great way to explain your symptoms! \n\n**Doctor**: \"Dank u wel. Heeft u misschien koorts of andere symptomen?\" (Thank you. Do you perhaps have a fever or other symptoms?)\n\n**Do you want to mention any additional symptoms to the doctor?** \n"
+    }
+}
